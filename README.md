@@ -1,2 +1,2 @@
-# coding-problems
+# Coding Questions and corresponding Solution
 Coding problems
