@@ -1,2 +1,2 @@
-# Coding Questions and corresponding Solution
-Coding problems
+# LeetCode Coding Questions and corresponding Solution
+Leetcode coding questions and algorithms
